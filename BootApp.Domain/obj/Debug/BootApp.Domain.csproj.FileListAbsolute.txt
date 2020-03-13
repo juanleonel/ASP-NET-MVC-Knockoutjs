@@ -1,0 +1,9 @@
+C:\Users\Usuario\source\repos\BootApp.Web\BootApp.Domain\bin\Debug\BootApp.Domain.dll.config
+C:\Users\Usuario\source\repos\BootApp.Web\BootApp.Domain\bin\Debug\BootApp.Domain.dll
+C:\Users\Usuario\source\repos\BootApp.Web\BootApp.Domain\bin\Debug\BootApp.Domain.pdb
+C:\Users\Usuario\source\repos\BootApp.Web\BootApp.Domain\bin\Debug\Dapper.dll
+C:\Users\Usuario\source\repos\BootApp.Web\BootApp.Domain\bin\Debug\Dapper.xml
+C:\Users\Usuario\source\repos\BootApp.Web\BootApp.Domain\obj\Debug\BootApp.Domain.csproj.CopyComplete
+C:\Users\Usuario\source\repos\BootApp.Web\BootApp.Domain\obj\Debug\BootApp.Domain.dll
+C:\Users\Usuario\source\repos\BootApp.Web\BootApp.Domain\obj\Debug\BootApp.Domain.pdb
+C:\Users\Usuario\source\repos\BootApp.Web\BootApp.Domain\obj\Debug\BootApp.Domain.csprojAssemblyReference.cache
